@@ -4,7 +4,7 @@ import "fmt"
 
 var middleName = "Cane"
 
-func main() {
+func main2() {
 	fmt.Println(middleName)
 	printname()
 }
